@@ -1,3 +1,16 @@
-#page-footer{
-    background-color: black;
+#heading{
+    text-align: center;
+    background-color: #000000;
+    color: cornsilk;
+    font-size: 100px;
+    padding: 10px;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+    width: auto;
 }

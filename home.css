@@ -1,0 +1,408 @@
+/* navbar styling*/
+
+
+
+
+/* header*/
+
+header {
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgba(8, 39, 97, 0.918);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+}
+
+
+/* logo css*/
+
+#logo {
+    width: 70%;
+    text-align: center;
+    display: block;
+    margin-left: 25%;
+    margin: auto;
+}
+
+
+/* container*/
+
+#container {
+    margin: 5px;
+    top: 100px;
+}
+/* holder*/
+#holder {
+    text-align: center;
+    margin: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+
+/* paragraph*/
+
+#intro {
+    width: 70%;
+    text-align: left;
+    display: block;
+    margin: auto;
+    font-size: large;
+}
+
+.estimationTable {
+    width: 50%;
+    text-align: left;
+    align-content: center;
+    display: block;
+    margin: auto;
+    font-size: large;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+/* first feature css */
+
+#container1{
+    text-align: center;
+    margin: 10px;
+
+ }
+
+ #wf1_heading{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(122, 27, 27);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: x-large;
+ }
+
+ #f1h{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(122, 27, 27);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: large;
+ }
+
+#feature1{
+  border: 5px solid rgb(122, 27, 27);
+  text-align: center;
+  width: auto;
+  margin: 5px;
+}
+
+
+#wireframe1{
+  width: 20%;
+  display: inline-block;
+}
+
+#userstories1{
+  width: 30%;
+  display: inline-block;
+}
+
+#context1{
+  width: auto;
+  display: inline-block;
+}
+
+#validation1{
+    width: auto;
+  }
+  #para{
+      text-align: left;
+      margin: 2px;
+  }
+
+
+  /* second feature css */
+
+#container2{
+    text-align: center;
+    margin: 10px;
+
+ }
+
+ #wf2_heading{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 43, 5);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: x-large;
+ }
+
+ #f2h{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 43, 5);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: large;
+ }
+
+#feature2{
+  border: 5px solid rgb(6, 43, 5);
+  text-align: center;
+  width: auto;
+  margin: 5px;
+}
+
+
+#wireframe2{
+  width: 20%;
+  display: inline-block;
+}
+
+#userstories2{
+  width: 30%;
+  display: inline-block;
+}
+
+#context2{
+  width: auto;
+  display: inline-block;
+}
+
+#validation2{
+    width: auto;
+  }
+  #para{
+      text-align: left;
+      margin: 2px;
+  }
+
+
+    /* third feature css */
+
+#container3{
+    text-align: center;
+    margin: 10px;
+
+ }
+
+ #wf3_heading{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(27, 61, 122);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: x-large;
+ }
+
+ #f3h{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgba(8, 39, 97, 0.918);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: large;
+ }
+
+#feature3{
+  border: 5px solid rgba(8, 39, 97, 0.918);
+  text-align: center;
+  width: auto;
+  margin: 5px;
+}
+
+
+#wireframe3{
+  width: 20%;
+  display: inline-block;
+}
+
+#userstories3{
+  width: 30%;
+  display: inline-block;
+}
+
+#context3{
+  width: auto;
+  display: inline-block;
+}
+
+#validation3{
+    width: auto;
+  }
+  #para{
+      text-align: left;
+      margin: 2px;
+  }
+
+
+     /* fourth feature css */
+
+#container4{
+    text-align: center;
+    margin: 10px;
+
+ }
+
+ #wf4_heading{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(180, 120, 9);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: x-large;
+ }
+
+ #f4h{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(180, 120, 9);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: large;
+ }
+
+#feature4{
+  border: 5px solid rgb(180, 120, 9);
+  text-align: center;
+  width: auto;
+  margin: 5px;
+}
+
+
+#wireframe4{
+  width: 20%;
+  display: inline-block;
+}
+
+#userstories4{
+  width: 30%;
+  display: inline-block;
+}
+
+#context4{
+  width: auto;
+  display: inline-block;
+}
+
+#validation4{
+    width: auto;
+  }
+  #par4{
+      text-align: left;
+      margin: 2px;
+  }
+
+
+  /* fifth feature css */
+
+#container5{
+    text-align: center;
+    margin: 10px;
+
+ }
+
+ #wf5_heading{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(99, 12, 70);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: x-large;
+ }
+
+ #f5h{
+    padding: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(99, 12, 70);
+    clear: left;
+    text-align: center;
+    opacity: 80%;
+    width: auto;
+    margin: auto;
+    font-size: large;
+ }
+
+#feature5{
+  border: 5px solid rgb(99, 12, 70);
+  text-align: center;
+  width: auto;
+  margin: 5px;
+}
+
+
+#wireframe5{
+  width: 20%;
+  display: inline-block;
+}
+
+#userstories5{
+  width: 30%;
+  display: inline-block;
+}
+
+#context5{
+  width: auto;
+  display: inline-block;
+}
+
+#validation5{
+    width: auto;
+    display: inline-block;
+    text-align: left;
+  }
+
+
+/* footer */
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+    width: auto;
+}
+#tech_text{
+ font-size: x-large;
+}
+#tt_title{
+    text-align: center;
+    width: auto;
+    font-size: xx-large;
+  }
